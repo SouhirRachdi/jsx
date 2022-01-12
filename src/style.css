@@ -1,0 +1,31 @@
+body{ 
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background: rgba(230, 227, 227, 0.027);
+}
+
+
+
+.title{
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+  font-size: xx-large;
+}
+
+.red{
+  color: rgb(5, 188, 212);
+}
+
+.img{
+  display: flex;
+  float: left !important;
+  padding: 30px 30px 10px 30px;
+  height:600px;
+  
+}
+.imeg{
+  padding-left: 20px;
+  padding-right: 20px;
+}
